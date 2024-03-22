@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Методика и Техника Медиаисследований",
+    pageTitle: "📒 аээ...",
     enableSPA: true,
     enablePopovers: true,
     analytics: {

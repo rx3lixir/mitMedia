@@ -1,0 +1,433 @@
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Text Elements
+Продолжительность
+видеоконтента ^QClW4w9x
+
+Вовлеченность 
+зрителей ^C9NujEyv
+
+Клип в Тикток 
+(не более 1 минуты) ^Lenl5AmL
+
+Распаковка на YouTube 
+(около 15 минут) ^sVgE3kQm
+
+Интервью в сети X
+(более часа)  ^lJpX4wqL
+
+%%
+# Drawing
+```json
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.24",
+	"elements": [
+		{
+			"type": "arrow",
+			"version": 205,
+			"versionNonce": 2023047005,
+			"isDeleted": false,
+			"id": "h9stjupQXm9NLrXRwl0rn",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -339.1428571428571,
+			"y": 12.7578125,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 3,
+			"height": 625,
+			"seed": 772344883,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1710947862322,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-3,
+					-625
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 390,
+			"versionNonce": 1978052851,
+			"isDeleted": false,
+			"id": "lR7WuxmMbP9eMOepXXlMs",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -342.08888775104793,
+			"y": 9.209356694404732,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 680.5569341375408,
+			"height": 3.9174901840720944,
+			"seed": 494582365,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1710947862322,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					680.5569341375408,
+					-3.9174901840720944
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 368,
+			"versionNonce": 794262995,
+			"isDeleted": false,
+			"id": "QClW4w9x",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 243.11974986900447,
+			"y": -65.01778711328973,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 191.35980224609375,
+			"height": 50,
+			"seed": 920240275,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1710947890811,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Продолжительность\nвидеоконтента",
+			"rawText": "Продолжительность\nвидеоконтента",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Продолжительность\nвидеоконтента",
+			"lineHeight": 1.25,
+			"baseline": 43
+		},
+		{
+			"type": "text",
+			"version": 666,
+			"versionNonce": 855580061,
+			"isDeleted": false,
+			"id": "C9NujEyv",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -317.6934357305972,
+			"y": -654.3145610050856,
+			"strokeColor": "#343a40",
+			"backgroundColor": "transparent",
+			"width": 147.11985778808594,
+			"height": 50,
+			"seed": 1075405875,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1710947886795,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Вовлеченность \nзрителей",
+			"rawText": "Вовлеченность \nзрителей",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Вовлеченность \nзрителей",
+			"lineHeight": 1.25,
+			"baseline": 43
+		},
+		{
+			"type": "ellipse",
+			"version": 111,
+			"versionNonce": 437211187,
+			"isDeleted": false,
+			"id": "kzSU-BHrD3_ujKaeuLaYo",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -200.5570929545027,
+			"y": -542.0579096525901,
+			"strokeColor": "#9c36b5",
+			"backgroundColor": "#9c36b5",
+			"width": 13.75,
+			"height": 11.25,
+			"seed": 342345725,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1710947862323,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 272,
+			"versionNonce": 1724200861,
+			"isDeleted": false,
+			"id": "Lenl5AmL",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -176.60444743473744,
+			"y": -604.3331475038374,
+			"strokeColor": "#9c36b5",
+			"backgroundColor": "transparent",
+			"width": 247.49099731445312,
+			"height": 64.31841035245722,
+			"seed": 957568531,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1710948245449,
+			"link": null,
+			"locked": false,
+			"fontSize": 25.727364140982885,
+			"fontFamily": 1,
+			"text": "Клип в Тикток \n(не более 1 минуты)",
+			"rawText": "Клип в Тикток \n(не более 1 минуты)",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Клип в Тикток \n(не более 1 минуты)",
+			"lineHeight": 1.25,
+			"baseline": 54
+		},
+		{
+			"type": "ellipse",
+			"version": 60,
+			"versionNonce": 1723650515,
+			"isDeleted": false,
+			"id": "O_9hcHKErhLVczthHRI5x",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -64.83375007227323,
+			"y": -466.0152017688259,
+			"strokeColor": "#e03131",
+			"backgroundColor": "#e03131",
+			"width": 17.809408253710444,
+			"height": 16.696320237853623,
+			"seed": 1954459613,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1710947862323,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 305,
+			"versionNonce": 1289879837,
+			"isDeleted": false,
+			"id": "sVgE3kQm",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -27.82830297099798,
+			"y": -507.36619192251135,
+			"strokeColor": "#e03131",
+			"backgroundColor": "#e03131",
+			"width": 290.05511474609375,
+			"height": 58.5910462114747,
+			"seed": 1760168637,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1710948249209,
+			"link": null,
+			"locked": false,
+			"fontSize": 23.43641848458988,
+			"fontFamily": 1,
+			"text": "Распаковка на YouTube \n(около 15 минут)",
+			"rawText": "Распаковка на YouTube \n(около 15 минут)",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Распаковка на YouTube \n(около 15 минут)",
+			"lineHeight": 1.25,
+			"baseline": 49
+		},
+		{
+			"type": "ellipse",
+			"version": 49,
+			"versionNonce": 1904811891,
+			"isDeleted": false,
+			"id": "eXuIcDbp62Lr2ObYYtSKr",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 135.5233358530968,
+			"y": -305.0218297905443,
+			"strokeColor": "#0c8599",
+			"backgroundColor": "#0c8599",
+			"width": 18.858994279914782,
+			"height": 15.322932852430881,
+			"seed": 982537011,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1710947862324,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 300,
+			"versionNonce": 362062173,
+			"isDeleted": false,
+			"id": "lJpX4wqL",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 160.36348487189036,
+			"y": -363.4189825555308,
+			"strokeColor": "#0c8599",
+			"backgroundColor": "#0c8599",
+			"width": 219.62294006347656,
+			"height": 59.61279837028797,
+			"seed": 1796211901,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1710948233563,
+			"link": null,
+			"locked": false,
+			"fontSize": 23.845119348115187,
+			"fontFamily": 1,
+			"text": "Интервью в сети X\n(более часа) ",
+			"rawText": "Интервью в сети X\n(более часа) ",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Интервью в сети X\n(более часа) ",
+			"lineHeight": 1.25,
+			"baseline": 50
+		}
+	],
+	"appState": {
+		"theme": "light",
+		"viewBackgroundColor": "#fffce8",
+		"currentItemStrokeColor": "#343a40",
+		"currentItemBackgroundColor": "#0c8599",
+		"currentItemFillStyle": "solid",
+		"currentItemStrokeWidth": 2,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 1,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 1,
+		"currentItemFontSize": 20,
+		"currentItemTextAlign": "left",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"scrollX": 448.7678968056348,
+		"scrollY": 943.5217281505422,
+		"zoom": {
+			"value": 0.75
+		},
+		"currentItemRoundness": "round",
+		"gridSize": null,
+		"gridColor": {
+			"Bold": "#FFEE7DFF",
+			"Regular": "#FFF7C4FF"
+		},
+		"currentStrokeOptions": null,
+		"previousGridSize": null,
+		"frameRendering": {
+			"enabled": true,
+			"clip": true,
+			"name": true,
+			"outline": true
+		}
+	},
+	"files": {}
+}
+```
+%%
